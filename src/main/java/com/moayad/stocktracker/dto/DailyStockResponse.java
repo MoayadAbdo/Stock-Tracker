@@ -1,4 +1,10 @@
 package com.moayad.stocktracker.dto;
 
-public class StockHistoryResponse {
-}
+public record DailyStockResponse(
+        String date,
+        double open,
+        double close,
+        double high,
+        double low,
+        long volume
+) {}
