@@ -34,13 +34,6 @@ This project demonstrates:
 
 ---
 
-## 📦 Prerequisites
-
-✔ Java 21 installed  
-✔ Maven installed  
-✔ Git installed  
-✔ Alpha Vantage API key (required)
-
 Get a free API key: https://www.alphavantage.co/support/#api-key
 
 ---
